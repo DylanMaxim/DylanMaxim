@@ -5,10 +5,10 @@ Computer Science student interested in software engineering.
 ## Featured Projects
 
 ### Horizon Bank (University Coursework)
-A Responsive banking website with an interactive mortgage calculator built with HTML, CSS, and JavaScript.
+A responsive banking website with an interactive mortgage calculator built with HTML, CSS, and JavaScript.
 
 ### Study Buddy (Hackathon Project)
-A Platform designed to help students find compatible study partners and more.
+A platform designed to help students find compatible study partners and more.
 
 ### Valentine Website
 A small interactive website built to ask a very important question.
