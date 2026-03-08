@@ -8,10 +8,10 @@ Computer Science student interested in software engineering.
 A responsive banking website with an interactive mortgage calculator built with HTML, CSS, and JavaScript.
 
 ### Study Buddy (Hackathon Project)
-A platform designed to help students find compatible study partners and more.
+A platform that helps students find compatible study partners using profile matching and shared study interests.
 
-### Will You Be My Valentine
-A small interactive website built to ask a very important question.
+### AidWay
+A QR-driven demand reporting platform with an AI health chatbot and real-time dashboards to help charities allocate supplies to humanitarian camps more effectively.
 
 ## Tech Stack
 ### Languages
