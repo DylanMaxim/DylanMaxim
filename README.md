@@ -4,14 +4,17 @@ Computer Science student interested in software engineering.
 
 ## Featured Projects
 
+### AidWay (Hackathon Project)
+A QR-driven demand reporting platform with an AI health chatbot and real-time dashboards to help charities allocate supplies to humanitarian camps more effectively.
+Built with Next.js, Firebase, Tailwind, and Gemini & Ollama APIs.
+
 ### Horizon Bank (University Coursework)
 A responsive banking website with an interactive mortgage calculator built with HTML, CSS, and JavaScript.
+Built with HTML, CSS and JavaScript
 
 ### Study Buddy (Hackathon Project)
 A platform that helps students find compatible study partners using profile matching and shared study interests.
-
-### AidWay
-A QR-driven demand reporting platform with an AI health chatbot and real-time dashboards to help charities allocate supplies to humanitarian camps more effectively.
+Built with Java, Spring Boot & Firebase
 
 ## Tech Stack
 ### Languages
