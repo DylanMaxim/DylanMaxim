@@ -1,5 +1,20 @@
-## Hi there 👋
+# Hi, I'm Dylan 👋
 
+Computer Science student interested in software engineering.
+
+## Tech Stack
+HTML • CSS • JavaScript • TypeScript • Python • Java • Spring Boot • Firebase
+### Languages
+![Languages](https://skillicons.dev/icons?i=java,python,js,ts)
+
+### Web Development
+![Web](https://skillicons.dev/icons?i=html,css,react,nodejs)
+
+### Backend & Databases
+![Backend](https://skillicons.dev/icons?i=spring,firebase,mysql)
+
+### Tools
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,idea)
 <!--
 **DylanMaxim/DylanMaxim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
