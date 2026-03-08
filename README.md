@@ -3,7 +3,6 @@
 Computer Science student interested in software engineering.
 
 ## Tech Stack
-HTML • CSS • JavaScript • TypeScript • Python • Java • Spring Boot • Firebase
 ### Languages
 ![Languages](https://skillicons.dev/icons?i=java,python,js,ts)
 
