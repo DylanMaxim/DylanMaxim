@@ -10,7 +10,7 @@ A responsive banking website with an interactive mortgage calculator built with 
 ### Study Buddy (Hackathon Project)
 A platform designed to help students find compatible study partners and more.
 
-### Valentine Website
+### Will You Be My Valentine
 A small interactive website built to ask a very important question.
 
 ## Tech Stack
