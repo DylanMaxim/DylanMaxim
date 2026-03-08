@@ -5,7 +5,7 @@ Computer Science student interested in software engineering.
 ## Featured Projects
 
 ### AidWay (Hackathon Project)
-A QR-driven demand reporting platform with an AI health chatbot and real-time dashboards to help charities allocate supplies to humanitarian camps more effectively.
+A QR-driven demand reporting platform with an AI health chatbot and real-time dashboards to help charities allocate supplies to camps more effectively.
 <br>Built with Next.js, Firebase, Tailwind, and Gemini & Ollama APIs.
 
 ### Horizon Bank (University Coursework)
