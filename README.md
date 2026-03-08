@@ -2,7 +2,7 @@
 
 Computer Science student interested in software engineering.
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### Horizon Bank (University Coursework)
 A Responsive banking website with an interactive mortgage calculator built with HTML, CSS, and JavaScript.
