@@ -9,12 +9,12 @@ A QR-driven demand reporting platform with an AI health chatbot and real-time da
 <br>Built with Next.js, Firebase, Tailwind, and Gemini & Ollama APIs.
 
 ### Horizon Bank (University Coursework)
-A responsive banking website with an interactive mortgage calculator and multiple service pages
-<br>Built with HTML, CSS and JavaScript
+A responsive banking website featuring an interactive mortgage calculator and multiple service pages
+<br>Built with HTML, CSS and JavaScript.
 
 ### Study Buddy (Hackathon Project)
 A platform that helps students find compatible study partners using profile matching and shared study interests.
-<br>Built with Java, Spring Boot & Firebase
+<br>Built with Java, Spring Boot & Firebase.
 
 ## Tech Stack
 ### Languages
