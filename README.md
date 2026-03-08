@@ -14,7 +14,7 @@ HTML • CSS • JavaScript • TypeScript • Python • Java • Spring Boot �
 ![Backend](https://skillicons.dev/icons?i=spring,firebase,mysql)
 
 ### Tools
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,idea)
+![Tools](https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,jupyter,anaconda)
 <!--
 **DylanMaxim/DylanMaxim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
