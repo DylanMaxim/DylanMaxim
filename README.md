@@ -24,7 +24,7 @@ A small interactive website built to ask a very important question.
 ![Backend](https://skillicons.dev/icons?i=spring,firebase,mysql)
 
 ### Tools
-![Tools](https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,jupyter,anaconda)
+![Tools](https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,anaconda)
 <!--
 **DylanMaxim/DylanMaxim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
